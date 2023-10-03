@@ -27,14 +27,6 @@ This repository contains Python implementations of three common reinforcement le
 - Temporal Difference (TD) Learning is a method used to estimate the values of states in a Markov Reward Process.
 - It combines Monte Carlo methods and dynamic programming to learn from each time step, making it efficient for online learning.
 
-## Contributors
-
-- List the contributors and their contributions here, if applicable.
-
-## License
-
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - pseudo code as given in Reinforcement Learning :An Introduction - Barto Sutton 
